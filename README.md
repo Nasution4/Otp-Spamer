@@ -1,4 +1,4 @@
-<h1 align="center"><code>OTP-SPAMMER</code></h1> <p align="center"> <img src="https://github.com/Nasution4/Otp-Spamer/blob/main/Screenshot_20251121-191703.jpg" width="800"><br><br>
+<h1 align="center"><code>OTP-SPAMMER</code></h1> <p align="center"> <img src="" width="800"><br><br>
 
 _Sebuah alat yang berfungsi untuk mengirimkan banyak kode OTP secara beruntun dengan tujuan menyepam ataupun membanjiri kolom pesan target_
 
